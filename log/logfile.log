@@ -1,0 +1,27 @@
+[WARN ] 2017-06-26 03:39:22.729 [main] SphereValidator - Radius cannot be qual or less 0; got: -1
+[WARN ] 2017-06-26 03:39:22.754 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:39:22.754 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:47:57.405 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:47:57.407 [main] SphereValidator - Radius cannot be qual or less 0; got: -1
+[WARN ] 2017-06-26 03:47:57.408 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:47:57.408 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:48:03.528 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:48:03.531 [main] SphereValidator - Radius cannot be qual or less 0; got: -1
+[WARN ] 2017-06-26 03:48:03.531 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:48:03.531 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:48:07.588 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:48:07.591 [main] SphereValidator - Radius cannot be qual or less 0; got: -1
+[WARN ] 2017-06-26 03:48:07.592 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:48:07.592 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:49:29.651 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:49:29.656 [main] SphereValidator - Radius cannot be qual or less 0; got: -1
+[WARN ] 2017-06-26 03:49:29.657 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:49:29.657 [main] SphereValidator - Parameters for sphere are not correct float numbers
+[WARN ] 2017-06-26 03:52:29.462 [main] SphereValidator - Parameters for sphere are not float numbers
+[WARN ] 2017-06-26 03:52:29.465 [main] SphereValidator - Radius cannot be equal or less than 0; got: -1
+[WARN ] 2017-06-26 03:52:29.465 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 03:52:29.465 [main] SphereValidator - Parameters for sphere are not float numbers
+[WARN ] 2017-06-26 12:25:15.047 [main] SphereValidator - Parameters for sphere are not float numbers
+[WARN ] 2017-06-26 12:25:15.050 [main] SphereValidator - Radius cannot be equal or less than 0; got: -1
+[WARN ] 2017-06-26 12:25:15.050 [main] SphereValidator - Wrong number of parameters. Expected: 4; got: 1
+[WARN ] 2017-06-26 12:25:15.050 [main] SphereValidator - Parameters for sphere are not float numbers

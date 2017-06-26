@@ -1,0 +1,3 @@
+2017-06-25 23:49:32.622 [main] WARN  org.zaykin.figure.file.FileOperation - Line 4: non-float parameter value  at position 0, 
+2017-06-25 23:49:32.625 [main] WARN  org.zaykin.figure.file.FileOperation - Line 5: radius cannot be equal or less than 0
+2017-06-25 23:49:32.625 [main] WARN  org.zaykin.figure.file.FileOperation - Line 6: wrong number of parameters: expected 4, got 1
